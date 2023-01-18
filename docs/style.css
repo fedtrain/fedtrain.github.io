@@ -16,7 +16,6 @@ body {
 .body-content {
   background-color: white;
   display: flex;
-  padding: 0 2rem;
 }
 
 .main-container {
